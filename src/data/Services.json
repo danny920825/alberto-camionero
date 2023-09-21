@@ -1,0 +1,44 @@
+{
+  "servicios": [
+    {
+      "nombre": "Transporte Local de Carga",
+      "descripcion": "Entrega dentro de la ciudad o área metropolitana. Perfecto para negocios locales que necesitan mover mercancías dentro de un área específica."
+    },
+    {
+      "nombre": "Transporte Regional de Carga",
+      "descripcion": "Entregas y recolecciones en la región, ideal para empresas que requieran mover productos entre ciudades cercanas."
+    },
+    {
+      "nombre": "Servicio Programado",
+      "descripcion": "Reserva recurrente del camión para entregas regulares, lo que puede ser beneficioso para empresas que tienen envíos consistentes."
+    },
+    {
+      "nombre": "Servicio Express",
+      "descripcion": "Para esas entregas urgentes que necesitan ser manejadas rápidamente. Una tarifa premium podría aplicarse dada la prioridad y rapidez."
+    },
+    {
+      "nombre": "Transporte de Cargas Especiales",
+      "descripcion": "Si el camión puede manejar cargas que tienen requisitos específicos, como productos frágiles, voluminosos o de alto valor."
+    },
+    {
+      "nombre": "Asesoría en Logística",
+      "descripcion": "Ayudar a las empresas a planificar y coordinar sus envíos, aprovechando tu experiencia en el campo."
+    },
+    {
+      "nombre": "Alquiler con Conductor",
+      "descripcion": "Para aquellos que necesitan el camión pero también requieren un conductor experimentado."
+    },
+    {
+      "nombre": "Próximamente, Flota Ampliada",
+      "descripcion": "Mencionar que se tienen planes para añadir un segundo camión, lo que aumentará la capacidad y la disponibilidad."
+    },
+    {
+      "nombre": "Servicio de Carga y Descarga",
+      "descripcion": "Ofreciendo no solo el transporte sino también la mano de obra para cargar y descargar mercancías."
+    },
+    {
+      "nombre": "Seguimiento en Tiempo Real",
+      "descripcion": "Proporcionar actualizaciones en tiempo real sobre el estado y ubicación de los envíos, dando tranquilidad a los clientes."
+    }
+  ]
+}
